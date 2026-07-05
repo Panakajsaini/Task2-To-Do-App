@@ -1,0 +1,35 @@
+{
+    "name": "task2_to_do_app",
+    "short_name": "task2_to_do_app",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "This application as the name suggests will be a To-Do list holding app. It’ll store the users schedules and their upcoming meetings or events. In this application, users will be enabled to write their important notes as well. To make it safe, provide a login page before the user can access it. So, this app will have a login page, sign-up page, logout system, and the area to write their tasks, events, or important notes. You can build it in android studio using flutter and XML at ease. Using XML you can build the user interface as user-friendly as you can. And to store the users’data, you can use SQLite enabling the users to even delete the data permanently.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
