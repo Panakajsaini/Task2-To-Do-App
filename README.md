@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # task2_to_do_app
 
 This application as the name suggests will be a To-Do list holding app. It’ll store the users schedules and their upcoming meetings or events. In this application, users will be enabled to write their important notes as well. To make it safe, provide a login page before the user can access it. So, this app will have a login page, sign-up page, logout system, and the area to write their tasks, events, or important notes. You can build it in android studio using flutter and XML at ease. Using XML you can build the user interface as user-friendly as you can. And to store the users’data, you can use SQLite enabling the users to even delete the data permanently.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Task2-To-Do-App
+Task2 To Do App
+>>>>>>> 051e57091b9aef7a9cd8c5f67fa4889321319a16
